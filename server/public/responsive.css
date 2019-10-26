@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+	.detail-img {
+		margin-bottom: 3rem;
+	}
+	main {
+		margin: 5rem 1rem 1rem 1rem !important;
+	}
+}
+@media screen and (max-width: 480px) {
+}

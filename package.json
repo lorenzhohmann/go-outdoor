@@ -1,0 +1,23 @@
+{
+  "name": "go-outdoor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenzhohmann/go-outdoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenzhohmann/go-outdoor/issues"
+  },
+  "homepage": "https://github.com/lorenzhohmann/go-outdoor#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
