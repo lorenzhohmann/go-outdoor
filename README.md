@@ -14,10 +14,13 @@ Das Backend wird über eine Node.js Anwendung realisiert. Aktuell ist die Webanw
 Für das Frontend haben wir uns für das JavaScript Framework Vue.js (Vue CLI) entschieden. Damit können wir HTTP Anfragen an die Node.js RestAPI senden, um Daten abzufragen und zu senden.
 Vue.js ermöglicht uns es, dynamsiche und schnelle Oberflächen zu bauen, die gerade für den Erstellprozess und die Filterung von großem Vorteil sind.
 Da wir viel wert auf die intuitive Bedienung legen, haben wir bereits die Filter- und Detailseite beispielhaft angelegt.
-![Screen 0](https://hackathon.lorenzhohmann.de/go-outdoor-filter.PNG)
-![Screen 1](https://hackathon.lorenzhohmann.de/go-outdoor-detail-1.PNG)
-![Screen 2](https://hackathon.lorenzhohmann.de/go-outdoor-detail-2.PNG)
-![Screen 3](https://hackathon.lorenzhohmann.de/go-outdoor-detail-3.PNG)
+![Screen 0](https://hackathon.lorenzhohmann.de/go-outdoor-filter.PNG?v=1)
+![Screen 1](https://hackathon.lorenzhohmann.de/go-outdoor-detail-1.PNG?v=1)
+![Screen 2](https://hackathon.lorenzhohmann.de/go-outdoor-detail-2.PNG?v=1)
+![Screen 3](https://hackathon.lorenzhohmann.de/go-outdoor-detail-3.PNG?v=1)
+
+## Tracken per GPS
+Die App erfordert es bei weiterer Entwicklung, dass man eine Map Ansicht (wie bei Google Maps) mit verschiedenen Icons, etc. hat. Dazu haben wir das Package (vue-browser-geolocation)[https://www.npmjs.com/package/vue-browser-geolocation] vorgesehen.
 
 ## Datenspeicherung
 Die Daten sollen in einer MySQL Datenbank gespeichert werden. Eine grober Entwurf haben wir bereits im ER-Modell dargestellt, um einen Überblick über die benötigten Tabellen zu bekommen. 
