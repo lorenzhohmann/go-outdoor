@@ -50,12 +50,12 @@
 </template>
 <style lang="scss" scoped>
 .detail-img {
-	background-image: url(../assets/img/demo-image.jpg);
+	background-image: url(../assets/img/demstiefel.png);
 	background-size: cover;
 	background-position: center;
 	width: 100%;
 	background-repeat: no-repeat;
-	height: 30vh;
+	height: 45vh;
 }
 .info-detail-section {
 	margin: 2rem 0;

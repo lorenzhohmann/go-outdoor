@@ -13,6 +13,10 @@ const routes = [
   {
     path: "/detail/:id",
     component: Detail
+  },
+  {
+    path: "*",
+    redirect: "/filter"
   }
 ];
 
