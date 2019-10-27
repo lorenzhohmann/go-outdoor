@@ -20,7 +20,7 @@ Da wir viel wert auf die intuitive Bedienung legen, haben wir bereits die Filter
 ![Screen 3](https://hackathon.lorenzhohmann.de/go-outdoor-detail-3.PNG?v=1)
 
 ## Tracken per GPS
-Die App erfordert es bei weiterer Entwicklung, dass man eine Map Ansicht (wie bei Google Maps) mit verschiedenen Icons, etc. hat. Dazu haben wir das Package (vue-browser-geolocation)[https://www.npmjs.com/package/vue-browser-geolocation] vorgesehen.
+Die App erfordert es bei weiterer Entwicklung, dass man eine Map Ansicht (wie bei Google Maps) mit verschiedenen Icons, etc. hat. Dazu haben wir das Package [vue-browser-geolocation](https://www.npmjs.com/package/vue-browser-geolocation) vorgesehen.
 
 ## Datenspeicherung
 Die Daten sollen in einer MySQL Datenbank gespeichert werden. Eine grober Entwurf haben wir bereits im ER-Modell dargestellt, um einen Überblick über die benötigten Tabellen zu bekommen. 
